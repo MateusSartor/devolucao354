@@ -14,6 +14,7 @@ public class calc_A_trapezio {
         A = h*((B + b)/2);
         System.out.println("A área exata do trapezio é: " +A);
         ;
+        //ATIVIDADE 2
         System.out.println("A área arredondada do trapezio é: " + Math.round(A) );
     }
 }    
